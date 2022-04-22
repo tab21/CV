@@ -6,7 +6,7 @@ import "./css/main.css";
 export default function Education() {
   return (
     <main>
-      <h2>Education</h2>
+      <h2 id="edu">Education</h2>
 
       <ul className="content">
         <li className="item">

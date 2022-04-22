@@ -13,9 +13,9 @@ export default function Navigation() {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Education</Nav.Link>
-            <Nav.Link href="#action3">Projects</Nav.Link>
+            <Nav.Link href="#">Home</Nav.Link>
+            <Nav.Link href="#edu">Education</Nav.Link>
+            <Nav.Link href="#projects">Projects</Nav.Link>
             
           </Nav>
         </Navbar.Collapse>

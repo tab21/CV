@@ -3,7 +3,7 @@ import React from "react";
 export default function Experience() {
   return (
     <main>
-      <h2>Experience</h2>
+      <h2 id="exp">Experience</h2>
       <ul className="content">
         <li className="item">
           <h3>Campus Ambassador</h3>
